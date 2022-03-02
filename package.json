@@ -1,0 +1,59 @@
+{
+  "name": "molarity-theme",
+  "displayName": "Mol?lurity Theme",
+  "description": "Never stop learning and Never give up! This theme is part of my VS Code SuperHero course. Check it out at: vsCodeHero.com",
+  "publisher": "malvee",
+  "author": {
+    "name": "M Alvee"
+  },
+  "version": "0.0.8",
+  "engines": {
+    "vscode": "^1.46.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/0xMALVEE/molarity-theme"
+  },
+  "bugs": {
+    "url": "https://github.com/0xMALVEE/molarity-theme/issues"
+  },
+  "galleryBanner": {
+    "color": "#09131b",
+    "theme": "dark"
+  },
+  "icon": "images/icon/logo_250x250.png",
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "molarity Theme",
+    "Dark Theme",
+    "VSCode Theme",
+    "veewebcode",
+    "malvee",
+    "blue",
+    "orange",
+    "Cobalt"
+  ],
+  "badges": [
+    {
+      "url": "https://img.shields.io/badge/-Become%20a%20VS%20Code%20Hacker%20%E2%86%92-gray.svg?colorB=ff652f&style=flathttps://img.shields.io/badge/-Become%20a%20VS%20Code%20SuperHero%20%E2%86%92-gray.svg?colorB=ff652f&style=flat",
+      "href": "https://malvee.dev",
+      "description": "Support this project!"
+    }
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Molarity Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/molarity-theme.json"
+      },
+      {
+        "label": "Molarity Theme (Washed)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/molarity-washed.json"
+      }
+    ]
+  }
+}
