@@ -1,2 +1,7 @@
-GOOD THEME# molarity-theme
-# molarity-theme
+# Molarity Theme
+
+A Simple theme for vs code. 
+
+## Peview
+
+
