@@ -1,12 +1,12 @@
 {
   "name": "molarity-theme",
   "displayName": "Mol?lurity Theme",
-  "description": "Never stop learning and Never give up! This theme is part of my VS Code SuperHero course. Check it out at: vsCodeHero.com",
+  "description": "Never stop learning and Never give up!",
   "publisher": "malvee",
   "author": {
     "name": "M Alvee"
   },
-  "version": "1.0.2",
+  "version": "1.0.3",
   "engines": {
     "vscode": "^1.46.0"
   },
