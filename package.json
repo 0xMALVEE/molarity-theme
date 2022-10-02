@@ -6,7 +6,7 @@
   "author": {
     "name": "M Alvee"
   },
-  "version": "1.0.3",
+  "version": "1.0.6",
   "engines": {
     "vscode": "^1.46.0"
   },
@@ -44,6 +44,11 @@
   ],
   "contributes": {
     "themes": [
+      {
+        "label": "Molarity Theme (Soft)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/molarity-Soft.json"
+      },
       {
         "label": "Molarity Theme",
         "uiTheme": "vs-dark",
