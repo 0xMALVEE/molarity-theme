@@ -3,7 +3,18 @@
 A Simple theme for vs code. 
 
 ## Syntax Peview For Different Languages
-
+```
+JS Language Syntax Preview (Soft Version)
+```
+<img src="https://raw.githubusercontent.com/0xMALVEE/molarity-theme/main/images/s1.png"> </img>
+```
+CPP Language Syntax Preview (Soft Version)
+```
+<img src="https://raw.githubusercontent.com/0xMALVEE/molarity-theme/main/images/s2.png"> </img>
+```
+HTML Syntax Preview (Soft Version)
+```
+<img src="https://raw.githubusercontent.com/0xMALVEE/molarity-theme/main/images/s3.png"> </img>
 ```
 C++ Language Syntax Preview
 ```
