@@ -1,5 +1,5 @@
 {
-  "name": "Mol?lurity Theme - Fork",
+  "name": "Mol?lurity Theme - Soft - (Fixed)",
   "type": "dark",
   "semanticHighlighting": true,
   "semanticTokenColors": {
@@ -1848,7 +1848,7 @@
     "foreground": "#cccccc",
     "focusBorder": "#007fd4",
     "selection.background": "#256aa7",
-    "scrollbar.shadow": "#272a4f",
+    "scrollbar.shadow": "#272a4fa7",
     "activityBar.foreground": "#ffffff",
     "activityBar.background": "#101124",
     "activityBar.inactiveForeground": "#ffffff66",
@@ -2003,8 +2003,8 @@
     "tab.inactiveBackground": "#101124",
     "tab.inactiveForeground": "#ffffff80",
     "tab.hoverBackground": "#1f2373",
-    "scrollbarSlider.background": "#272a4f",
-    "scrollbarSlider.hoverBackground": "#646464b3",
+    "scrollbarSlider.background": "#272a4fbf",
+    "scrollbarSlider.hoverBackground": "#393d73c3",
     "scrollbarSlider.activeBackground": "#bfbfbf66",
     "progressBar.background": "#0e70c0",
     "widget.shadow": "#0000005c",
